@@ -7,10 +7,13 @@
 **4.** Emre Keskin  
 **5.** Yağmur Özkök  
 
-**Selected Game:** 
+**Selected Game:** Q-Bitz
 
 **Project Description**  
 *  
 *  
 *  
 *
+
+**How to play Q-Bitz?**
+
