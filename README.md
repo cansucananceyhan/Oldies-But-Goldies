@@ -10,8 +10,6 @@
   **4.** Emre Keskin  
   **5.** Yağmur Özkök  
 
-**Selected Game:** Q-Bitz
-
 ### **Project Description**  
 
    * In this project, we are going to implement a table game called "Q-bitz".
