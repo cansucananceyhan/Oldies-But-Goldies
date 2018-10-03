@@ -19,10 +19,11 @@
 
   * It is a game which player challenged to constitute geometric figures with given cubes. Every cube has different shapes on every side of cube.
 
-**Levels**
+**Modess**
 
-  * In this game there are specific counts of cubes, whose numbers depends on difficulty levels. Easy level has 9 cubes, Medium level has 16 cubes, Hard level has 25 cubes.
-
+  As game proceeds difficulty will increase. To increase difficulty modes are used. There are three different modes at the game:
+ 
+   * In first mode player only arrange cubes
   * Also as game proceeds geometric figure visualization time will decrease.
 
 **Purpose**
