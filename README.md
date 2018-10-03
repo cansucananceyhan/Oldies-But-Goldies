@@ -19,7 +19,7 @@
 
   * It is a game which player challenged to constitute geometric figures with given cubes. Every cube has different shapes on every side of cube.
 
-**Modess**
+**Modes**
 
   As game proceeds difficulty will increase. To increase difficulty modes are used. There are three different modes at the game:
  
