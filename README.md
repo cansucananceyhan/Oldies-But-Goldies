@@ -17,26 +17,23 @@
 
 **General**
 
-  * It is a game which player challenged to constitute geometric figures with given cubes. Every cube has different shapes on every side of cube.
+  * It is a game that the player is challenged to constitute geometric figures, that are differ from each other in Q-Bitz cards, with given cubes. Every cube has different shapes on their sides.
 
 **Modes**
 
- * First of all game divided into three parts as easy, medium and hard. In easy mode there is 16 cubes, in medium there is 25 and the hard mode has 36 cubes. 
+  * First of all, game has three different modes and each mode has three different difficulties that are easy, medium and hard. In easy mode there are 16 cubes, in medium mode there are 25 cubes and in hard mode there are 36 cubes. All cubes are identical.
  
-
-  After selecting the mode, and as game proceeds difficulty will increase. To increase difficulty modes are used. There are three different modes at the game:
- 
-   * In first mode, player only arrange cubes to form the geometric figure on the card
+  * First mode, players arrange cubes to form the geometric figure on the card.
    
-   * In second mode, players roll all of their cubes on the table like dice. Using the cubes as rolled, players place as many cubes as possible in the tray to recreate the pattern shown on the card. 
+  * In second mode, players roll all of their cubes on the table like dice. They place as many cubes as possible to recreate the pattern and they cannot change the cubes to use their different surfaces. The one who finishes the figure on the card will score points. 
    
-   * In last mode, player will see the card for a limited time, they will memorize the card while this time. Then they will arrange cubes to form the geometric cube without looking to figure.
+  * In last mode, players are allowed to look at their cards for 10 seconds in order to memorize their card. Then, they will try to recreate the figure without looking at their cards.
 
 **Purpose**
 
-  * Each cube has 6 different figures in each of their surfaces. Player aims to arrange cubes according to given design in a specific time.
+  * Each cube has 6 different figures in each of their surfaces. Player aims to arrange cubes according to given design at a specific time interval.
 
-  * Player get scores according to each cube that placed successfully and their remaining time when they finish the game, and loses point according to each unsuccessful trial.
+  * Player get scores according to each cube that placed successfully and their remaining time when they finish the game, and loses point according to each unsuccessful trials.
   
 **Reference**
 
