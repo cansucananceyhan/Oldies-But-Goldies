@@ -23,8 +23,11 @@
 
   As game proceeds difficulty will increase. To increase difficulty modes are used. There are three different modes at the game:
  
-   * In first mode player only arrange cubes
-  * Also as game proceeds geometric figure visualization time will decrease.
+   * In first mode, player only arrange cubes to form the geometric figure on the card
+   
+   * In second mode, players roll all of their cubes on the table like dice. Using the cubes as rolled, players place as many cubes as possible in the tray to recreate the pattern shown on the card. 
+   
+   * In last mode, player will see the card for a limited time, they will memorize the card while this time. Then they will arrange cubes to form the geometric cube without looking to figure.
 
 **Purpose**
 
