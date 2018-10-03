@@ -21,7 +21,10 @@
 
 **Modes**
 
-  As game proceeds difficulty will increase. To increase difficulty modes are used. There are three different modes at the game:
+ * First of all game divided into three parts as easy, medium and hard. In easy mode there is 16 cubes, in medium there is 25 and 36 cubes. 
+ 
+
+  After selecting the mode, and as game proceeds difficulty will increase. To increase difficulty modes are used. There are three different modes at the game:
  
    * In first mode, player only arrange cubes to form the geometric figure on the card
    
