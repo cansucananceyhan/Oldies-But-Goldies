@@ -30,5 +30,9 @@
   * Each cube has 6 different figures in each of their surfaces. Player aims to arrange cubes according to given design in a specific time.
 
   * Player get scores according to each cube that placed successfully and their remaining time when they finish the game, and loses point according to each unsuccessful trial.
+  
+**Reference**
+
+ * Reference link to original Q-bitz https://www.mindware.orientaltrading.com/q-bitz-a2-44002.fltr
 
 
