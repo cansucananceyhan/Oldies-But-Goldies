@@ -11,9 +11,8 @@
 
 **Project Description**  
 * In this project, we are going to implement a table game called "Q-bitz".
-*  
-*  
-*
+* Our aim is to create the game according to the principles of object oriented programming. 
+* The game will be implemented in Java. 
 
 **How to play Q-Bitz?**
 
