@@ -1,42 +1,45 @@
 # Oldies-But-Goldies
 
-**Group Members**  
-**1.** Mert Çerçiler  
-**2.** Burak Kırımlı  
-**3.** Cansu Canan Ceyhan  
-**4.** Emre Keskin  
-**5.** Yağmur Özkök  
+## Q-Bitz Game
+
+### **Group Members**  
+
+  **1.** Mert Çerçiler  
+  **2.** Burak Kırımlı  
+  **3.** Cansu Canan Ceyhan  
+  **4.** Emre Keskin  
+  **5.** Yağmur Özkök  
 
 **Selected Game:** Q-Bitz
 
-**Project Description**  
+### **Project Description**  
 
-  * In this project, we are going to implement a table game called "Q-bitz".
-  * Our aim is to create the game according to the principles of object oriented programming. 
-  * The game will be implemented in Java. 
+   * In this project, we are going to implement a table game called "Q-bitz".
+   * Our aim is to create the game according to the principles of object oriented programming. 
+   * The game will be implemented in Java. 
 
-**General**
+### **General**
 
-  * It is a game that the player is challenged to constitute geometric figures, that are differ from each other in Q-Bitz cards, with given cubes. Every cube has different shapes on their sides.
+   * It is a game that the player is challenged to constitute geometric figures, that are differ from each other in Q-Bitz cards, with given cubes. Every cube has different shapes on their sides.
 
-**Modes**
+### **Modes**
 
-  * First of all, game has three different modes and each mode has three different difficulties that are easy, medium and hard. In easy mode there are 16 cubes, in medium mode there are 25 cubes and in hard mode there are 36 cubes. All cubes are identical.
+   * First of all, game has three different modes and each mode has three different difficulties that are easy, medium and hard. In easy mode there are 16 cubes, in medium mode there are 25 cubes and in hard mode there are 36 cubes. All cubes are identical.
  
-  * First mode, players arrange cubes to form the geometric figure on the card.
+   * First mode, players arrange cubes to form the geometric figure on the card.
    
-  * In second mode, players roll all of their cubes on the table like dice. They place as many cubes as possible to recreate the pattern and they cannot change the cubes to use their different surfaces. The one who finishes the figure on the card will score points. 
+   * In second mode, players roll all of their cubes on the table like dice. They place as many cubes as possible to recreate the pattern and they cannot change the cubes to use their different surfaces. The one who finishes the figure on the card will score points. 
    
-  * In last mode, players are allowed to look at their cards for 10 seconds in order to memorize their card. Then, they will try to recreate the figure without looking at their cards.
+   * In last mode, players are allowed to look at their cards for 10 seconds in order to memorize their card. Then, they will try to recreate the figure without looking at their cards.
 
-**Purpose**
+### **Purpose**
 
-  * Each cube has 6 different figures in each of their surfaces. Player aims to arrange cubes according to given design at a specific time interval.
+   * Each cube has 6 different figures in each of their surfaces. Player aims to arrange cubes according to given design at a specific time interval.
 
-  * Player get scores according to each cube that placed successfully and their remaining time when they finish the game, and loses point according to each unsuccessful trials.
+   * Player get scores according to each cube that placed successfully and their remaining time when they finish the game, and loses point according to each unsuccessful trials.
   
-**Reference**
+### **Reference**
 
- * Reference link to original Q-bitz https://www.mindware.orientaltrading.com/q-bitz-a2-44002.fltr
+  * Reference link to original Q-bitz https://www.mindware.orientaltrading.com/q-bitz-a2-44002.fltr
 
 
