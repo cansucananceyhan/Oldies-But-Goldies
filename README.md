@@ -14,9 +14,17 @@
 * Our aim is to create the game according to the principles of object oriented programming. 
 * The game will be implemented in Java. 
 
-**How to play Q-Bitz?**
+**General**
+
+* It is a game which player challenged to constitute geometric figures with given cubes. Every cube has different shapes on every side of cube.
+
+**Levels**
 
 -In this game there are specific counts of cubes, whose numbers depends on difficulty levels. Easy level has 9 cubes, Medium level has 16 cubes, Hard level has 25 cubes.
+
+-Also as game proceeds geometric figure visualization time will decrease.
+
+**Purpose**
 
 -Each cube has 6 different figures in each of their surfaces. Player aims to arrange cubes according to given design in a specific time.
 
