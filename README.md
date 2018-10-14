@@ -37,10 +37,9 @@
    * Player get scores according to each cube that placed successfully and their remaining time when they finish the game, and loses point according to each unsuccessful trials.
    
 ### **Differences**
+   * Q-Bitz is a multiplayer game, players compete each other to finish the game faster than other players. In our game, player focuses on to get the highest score. 
     
-    * Q-Bitz is a multiplayer game, players compete each other to finish the game faster than other players. In our game, player focuses on to get the highest score. 
-    
-    * In real Q-Bitz, there is no difficulty modes. Players play the game with the same amount of cubes. In our game, there are different amount of cubes according to each difficulty modes. 
+   * In real Q-Bitz, there is no difficulty modes. Players play the game with the same amount of cubes. In our game, there are different amount of cubes according to each difficulty modes. 
   
 ### **Reference**
 
