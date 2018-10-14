@@ -1,4 +1,4 @@
-# Oldies-But-Goldies  (2-G)
+# Oldies-But-Goldies  (2G)
 
 ## Q-Bitz Game
 
